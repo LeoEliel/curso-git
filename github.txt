@@ -1,0 +1,16 @@
+git config --global user.name "LeoEliel"
+git config --global user.email "leoeliel13@gmail.com"
+git clone https://github.com/LeoEliel/curso-git.git
+
+git add caminho do arquivo
+git commit -m "Comentário"
+git push -u origin master
+git pull
+git log
+git log --oneline
+git brunch
+git brunch adicionr_formulario
+git checkout master
+git checkout adicionr_formulario
+git merge adicionr_formulario
+git branch -d adicionar_formulario	
